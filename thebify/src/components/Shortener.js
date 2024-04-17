@@ -16,7 +16,7 @@ function Shortener(){
         }
         
         try{
-            let response = await axios.post("http://localhost:3100/",{link: link})
+            let response = await axios.post("https://theb-li4a.onrender.com",{link: link})
             
             setShortLink(response.data.link)
         }catch(e){

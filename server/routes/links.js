@@ -8,7 +8,7 @@ Router.post("/", async function(req,res){
         if(link){
             let data = await linksData.shortenLink(link);
            
-            res.status(200).json({link:"http://localhost:3100/" + data[0].id })
+            res.status(200).json({link:"https://theb-li4a.onrender.com" + data[0].id })
         }
         else{
             res.status(400).json({error:"No link provided"})
