@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.shortener {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.form input[type="text"] {
+  width: 300px;
+  padding: 10px;
+  margin-right: 10px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+}
+
+.form button {
+  padding: 10px 20px;
+  background-color: #0066ff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.newLink button {
+  margin-top: 10px;
+}
+
+.newLink p {
+  word-wrap: break-word;
+}
