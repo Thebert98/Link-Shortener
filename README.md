@@ -4,7 +4,7 @@ Welcome to the GitHub repository for Link-Shortener, a powerful and intuitive ap
 
 ## Getting Started
 
-To get started with Thebify, clone this repository to your local machine. You will find two main directories: `server` and `client`.
+To get started with Thebify, clone this repository to your local machine. You will find two main directories: `server` and `thebify`.
 
 ### Setting Up the Server
 
@@ -16,7 +16,7 @@ To get started with Thebify, clone this repository to your local machine. You wi
 
 The client application is built with Create React App. To get it up and running:
 
-1. Navigate to the `client/thebify` directory.
+1. Navigate to the `thebify` directory.
 2. Install the dependencies using `npm install`.
 3. Start the development server using `npm start`. This will launch Thebify in your default web browser.
 
