@@ -1,4 +1,5 @@
 # Link-Shortener
+Host at https://link-shortener-kappa-sandy.vercel.app
 
 Welcome to the GitHub repository for Link-Shortener, a powerful and intuitive application designed to simplify and beautify your URLs. Our application, known as Thebify, offers a user-friendly interface and robust features to enhance your link management experience.
 
